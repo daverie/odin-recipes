@@ -40,7 +40,7 @@ main{
 
 .recipe a:hover{
     background: black;
-    color:  rgb(168, 172, 164);
+    color: rgb(168, 172, 164);
 }
 
 
@@ -132,6 +132,10 @@ font-size:2rem;
 
 .directions .info-title{
     text-align: center;
+}
+
+.optional{
+    margin-top:1em;
 }
 
 .bottom-text{
